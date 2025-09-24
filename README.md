@@ -17,4 +17,4 @@ Welcome to **My Emoji Playground** — a fun and interactive React app that lets
 - **FontAwesome** or Unicode for emoji rendering
 
 ## 📷 Preview
-![Screenshot]()
+![Screenshot](Screenshot 2025-09-24 142316.png)
