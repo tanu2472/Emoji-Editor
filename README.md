@@ -18,5 +18,5 @@ Welcome to **My Emoji Playground** — a fun and interactive React app that lets
 
 ## 📷 Preview
 
-- ![App Screenshot](Screenshot 2025-09-24 142316.png)
+- ![App Screenshot](Screenshot.png)
 
