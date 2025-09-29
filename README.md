@@ -28,5 +28,5 @@
 
 ## 📸 Screenshots
 
-![App Screenshot](public\assets\images\SS.png)
+![App Screenshot](SS.png)
 
