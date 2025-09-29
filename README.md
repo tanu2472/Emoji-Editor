@@ -1,4 +1,4 @@
-# 😎 My Emoji Playground 🌻
+# 😎 Zoo Emoji Maker 🌻
 
 **Customize, color, and play with emojis in a fun React-powered UI!**
 
@@ -28,5 +28,5 @@
 
 ## 📸 Screenshots
 
-![App Screenshot](your-screenshot-url-here)
+![App Screenshot](public/assets/images/Screenshot 2025-09-29 151258.png)
 
