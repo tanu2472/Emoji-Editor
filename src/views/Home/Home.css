@@ -1,0 +1,105 @@
+.container{
+    background-color: rgb(2, 128, 238);
+    min-height: 100vh;
+    width: 100%;
+    position: relative;
+}
+.app-container{
+    position: relative;
+    z-index: 10;
+    background-color: rgb(34, 192, 187);
+
+}
+     
+.header{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px; /* or any desired height */
+  font-size: 2rem;
+  color: black;
+} 
+.app-description {
+    text-align: center;
+    color: hwb(180 0% 0%);
+}
+.emoji-container {
+    background-color: hwb(180 64% 5%);
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    border-radius: 20px;
+    border: 1px solid black;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.editor-layout {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 48px;
+  margin-top: 48px;
+}
+.emoji-list, .color-list {
+  
+   border: 1px solid black;
+  border-radius: 16px;
+  padding: 16px;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+.emoji-list {
+  margin-right: 8px;
+}
+.color-list {
+  margin-left: 8px;
+}
+.emoji-btn {
+  font-size: 2rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+  transition: transform 0.1s;
+}
+.emoji-btn:hover {
+  transform: scale(1.2);
+}
+.emoji-container {
+  background-color: hwb(180 64% 5%);
+  width: 250px;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  border-radius: 20px;
+  border: 1px solid black;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.emoji-slider {
+  width: 120px;
+  margin: 16px 0 0 0;
+}
+.emoji-reset {
+  background: none;
+  border: none;
+  font-size: 2rem;
+  cursor: pointer;
+  margin-top: 12px;
+}
+.color-btn {
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  border: 2px solid #eee;
+  cursor: pointer;
+  transition: border 0.2s;
+}
+.color-btn:hover {
+  border: 2px solid #228B22;
+}
