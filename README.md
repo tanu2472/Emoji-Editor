@@ -28,5 +28,5 @@
 
 ## 📸 Screenshots
 
-![App Screenshot](public\assets\images\Screenshot 2025-09-29 151258.png)
+![App Screenshot](public\assets\images\SS.png)
 
